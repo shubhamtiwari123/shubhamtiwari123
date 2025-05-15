@@ -43,11 +43,7 @@ I’m passionate about transforming raw data into valuable business insights, au
 - **🧠 LLM Chatbot (FastAPI + LangChain)**  
   Built a document-aware chatbot using LangChain, embedding models, vector stores (FAISS), and OpenAI for real-time querying.
 
-- **📚 Student Data Ingestion (StarRez API)**  
-  Automated student profile extraction via StarRez APIs and integrated into Microsoft Fabric for data enrichment and visualization.
-
-- **🩺 FHIRForm EHR App (OAuth2 + FHIR)**  
-  Developed a secure form app for EHR data collection using FHIR standards (OpenEMR + Epic), with role-based access control.
+-And more on my profile
 
 ---
 
