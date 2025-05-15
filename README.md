@@ -1,7 +1,7 @@
 # 💻 Shubham Anil Tiwari
 
 🎯 **Aspiring Data Engineer | Backend Developer | Microsoft DP-600 Certified**  
-🌍 Mumbai, India | 📧 shubhamatiwari1512@gmail.com | 📱 +91-7738660079  
+🌍 Mumbai, India | 📧 shubhamatiwari1512@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-tiwari-75b01a23b/) | 🌐 [GitHub](https://github.com/shubhamtiwari123)
 
 ---
